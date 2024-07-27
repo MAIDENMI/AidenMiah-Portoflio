@@ -1,26 +1,27 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Wakey Drivey",
+    "imageSrc": "projects/WakeyDrive.jpg",
+    "description": "WakeyDrivey prevents accidents by detecting driver fatigue and sounding an alarm. It also includes a map with directions and nearby EV charging stations. The project integrated Python-based detection with a React frontend using WebSockets.",
+    "skills": ["python", "javascript", "react","mapbox","rapidapi", "html", "css", "websockets"],
+    "demo": "https://devpost.com/software/wakeydrivey",
+    "source": "https://github.com/MAIDENMI/WakeyDrivey"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Gupiteer",
+    "imageSrc": "projects/gupiteer1.png",
+    "description": "GuPiTEER, an innovative platform with all-in-one access to a variety of GPT models, offers contextual chat history and a built-in validation system, empowering users with the future of generative AI.",
+    "skills": ["react JS", "python" ,"flask","APIS","LLMs", "html", "css", "javascript"],
+    "demo": "https://devfolio.co/projects/gupiteer-bcc3",
+    "source": "https://github.com/MAIDENMI/gupiteer"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "CluturaLink",
+    "imageSrc": "projects/nsbehack.png",
+    "description": "This a place where people can sign up and be connected with those in the same minority in that person's community. Once they have created a account, they can post about stories of their culture, receipts of their food back home.",
+    "skills": ["react", "python", "mongodb", "flask", "html", "css","cohereapi"],
+    "demo": "https://devpost.com/software/culturelink",
+    "source": "https://github.com/MAIDENMI/CulturaLink"
   }
+  
 ]
